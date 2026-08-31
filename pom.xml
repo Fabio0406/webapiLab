@@ -11,8 +11,8 @@
 	<groupId>com.cicd</groupId>
 	<artifactId>webapi</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>webapi</name>
-	<description>Spring Boot WebAPI - CI/CD con JUnit y JaCoCo</description>
+	<name/>
+	<description/>
 	<url/>
 	<licenses>
 		<license/>
